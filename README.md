@@ -1,4 +1,6 @@
-# almanode
+# Inventario 
+
+Para la ejecución del motor de base de datos se debe instalar docker y posteriormete ejecutar el comando "docker compose up -d"
 
 Banckend realizado con:
  - nodejs v18.18.0,
